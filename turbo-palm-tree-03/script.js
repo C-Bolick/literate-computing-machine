@@ -57,7 +57,7 @@ function generatePassword() {
      }
      console.log(passwordValue);
 
-
+return passwordValue;
 };
 
 
