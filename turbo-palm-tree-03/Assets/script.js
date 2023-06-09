@@ -51,7 +51,7 @@ var Input = (i>8 && i<129 );
 for(userInput===true; {
 
   if(lower===true) {
-    const myArray=[ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i','j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+    const 
     const randomElement=myArray[Math.floor(Math.random()*myArray.length)];
     console.log(randomElement);}
     
@@ -63,7 +63,7 @@ for(userInput===true; {
 
 
     else if(upper===true){
-        const myArray=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y','Z', ];
+        const myArray=
 const randomElement=myArray[Math.floor(Math.random()*myArray.length)];
 console.log(randomElement);
 
@@ -71,7 +71,7 @@ console.log(randomElement);
     }
     
     else if(numbers===true) {
-        const myArray=['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'];
+        const myArray=
         const randomElement=myArray[Math.floor(Math.random()*myArray.length)];
         console.log(randomElement);
         
@@ -79,7 +79,7 @@ console.log(randomElement);
 
     
     else if(special===true) {
-        const myArray=['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', ',', '<', '>', '?', ':', '/'];
+        const myArray=
         const randomElement=myArray[Math.floor(Math.random()*myArray.length)];
         console.log(randomElement);
         
