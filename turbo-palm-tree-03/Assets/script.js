@@ -72,7 +72,7 @@ console.log(randomElement);
     
     else if(numbers===true) {
         const myArray=
-        const randomElement=myArray[Math.floor(Math.random()*myArray.length)];
+        
         console.log(randomElement);
         
     }
@@ -87,8 +87,7 @@ console.log(randomElement);
 }
 
     // function randomChar(userInput) {
-          //  var passwordValue=[];
-          //  for(var i=0; i < userInput; i++) {} };
+          
 
 
 
