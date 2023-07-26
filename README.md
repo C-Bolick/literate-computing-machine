@@ -25,7 +25,7 @@ CodingNepal : https://www.youtube.com/watch?v=pQr4O1OITJo,
 ## License 
 N/A
 
-![](imgs/Screenshot%202023-07-26 123144.png>)
+![](imgs/Screenshot.png>)
 
 https://c-bolick.github.io/literate-computing-machine/
 
